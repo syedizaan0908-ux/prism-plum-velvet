@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Kashuu Di — Birthday Celebration",
+      "hasCanvas": false,
+      "bodyTextLen": 308,
+      "bodyTextHash": "da63fc52e34142a37e048419564253fa3f0bb00cc3c57082e0f7842068069941",
+      "bodyTextPrefix": "A SPECIAL CELEBRATION OF GRACE, WISDOM & LOVE بِسْمِ اللَّهِ الر",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Kashuu Di — Birthday Celebration",
+      "hasCanvas": false,
+      "bodyTextLen": 308,
+      "bodyTextHash": "da63fc52e34142a37e048419564253fa3f0bb00cc3c57082e0f7842068069941",
+      "bodyTextPrefix": "A SPECIAL CELEBRATION OF GRACE, WISDOM & LOVE بِسْمِ اللَّهِ الر",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
